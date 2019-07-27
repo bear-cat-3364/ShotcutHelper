@@ -88,6 +88,7 @@
         }
     },
     "QQ.exe":{
+        "全局热键":{
             "Ctrl+Alt+Z":"提取消息",
             "Ctrl+Alt+L":"锁定QQ",
             "Ctrl+Alt+A":"截图",
