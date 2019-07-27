@@ -86,6 +86,15 @@
             "Win + Ctrl + ←":"向左切换",
             "Win + Ctrl + →":"向右切换"
         }
+    },
+    "QQ.exe":{
+            "Ctrl+Alt+Z":"提取消息",
+            "Ctrl+Alt+L":"锁定QQ",
+            "Ctrl+Alt+A":"截图",
+            "Ctrl+Alt+O":"识图",
+            "双击Ctrl":"划词翻译",
+            "Alt+W":"语言输入"
+        }
     }
     }
     
