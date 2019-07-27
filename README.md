@@ -2,7 +2,7 @@
 
 ![开发状态](https://img.shields.io/badge/build-success-green)
 ![版本](https://img.shields.io/badge/version-v0.1.2-red)
-![反对996](https://camo.githubusercontent.com/fce1dafb36f344f3caac8b9d6be435ba810e36ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b2d3939362e6963752d2532334646344435422e7376673f7374796c653d666c61742d737175617265)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 这个windows版的CheatSheet for mac
 
