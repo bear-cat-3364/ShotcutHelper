@@ -1,4 +1,8 @@
 # ShortcutHelper
+
+![开发状态](https://img.shields.io/badge/build-success-green)
+![版本](https://img.shields.io/badge/version-v0.1.2-red)
+
 这个windows版的CheatSheet for mac
 
 ## 目录说明
