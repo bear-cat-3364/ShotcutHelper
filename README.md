@@ -22,3 +22,7 @@
 - Google Chrome 
 - Win(微软快捷键)
 
+## 下载地址
+
+v0.1.2 https://www.lanzous.com/i56vpda
+修复了应用名过长导致的软件退出问题.
