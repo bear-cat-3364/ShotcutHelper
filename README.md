@@ -1,7 +1,7 @@
 # ShortcutHelper
 
 ![开发状态](https://img.shields.io/badge/build-success-green)
-![版本](https://img.shields.io/badge/version-v0.1.4-red)
+![版本](https://img.shields.io/badge/version-v0.1.5-red)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 这个windows版的CheatSheet for mac
@@ -26,6 +26,8 @@
 ## 下载地址
 
 统一下载地址 https://www.lanzous.com/b859427
+v0.1.5
+更改了数据库存储地址
 
 v0.1.4
 修复了开机无网络时更新出现的bug
@@ -36,3 +38,8 @@ v0.1.3
 
 v0.1.2 
 修复了应用名过长导致的软件退出问题.
+
+## 关于你们的提问
+
+### Quicker关联
+熟练Quicker的同学应该都知道有按键模拟功能，所以只要模拟Ctrl+space就行了。但大家需要了解到一点，Quicker应用是崇尚鼠标操作的。而ShortCutHelper是崇尚键盘操作的。
